@@ -1,5 +1,5 @@
 {
-  "name": "hmex-vue-html2pdf",
+  "name": "hmx-vue-html2pdf",
   "version": "1.9.0",
   "description": "Forked vue-html2pdf with resolve vulnerabilities",
   "main": "dist/vue-html2pdf.ssr.js",
