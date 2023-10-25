@@ -1,5 +1,10 @@
 # VueHTML2PDF Documentation
 
+#### Note:
+This version is to resolve all the vulnerabilities as of Nov 2022.
+
+Does not support Vue3.
+
 #### Package Github:
 https://github.com/kempsteven/vue-html2pdf
 
